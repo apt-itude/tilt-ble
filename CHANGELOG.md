@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.2.1 (2022-08-31)
+### Fix
+* Use specific gravity device class and units from sensor-state-data ([#5](https://github.com/Bluetooth-Devices/tilt-ble/issues/5)) ([`309875b`](https://github.com/Bluetooth-Devices/tilt-ble/commit/309875b4a7c8ea01c7ac8af4b0df645a0a224399))
+
 ## v0.2.0 (2022-08-30)
 ### Feature
 * Setup first publish ([#4](https://github.com/Bluetooth-Devices/tilt-ble/issues/4)) ([`3553b93`](https://github.com/Bluetooth-Devices/tilt-ble/commit/3553b934c5676bd9f101ab26b9e646462c559b0f))
