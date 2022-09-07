@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.2.3 (2022-09-07)
+### Fix
+* Downgrade logger to debug ([#7](https://github.com/Bluetooth-Devices/tilt-ble/issues/7)) ([`2398574`](https://github.com/Bluetooth-Devices/tilt-ble/commit/239857470ddd04a2e2e6aa0ef8b035ecdaf948b2))
+
 ## v0.2.2 (2022-08-31)
 ### Fix
 * Change GitHub org to Bluetooth-Devices ([#6](https://github.com/Bluetooth-Devices/tilt-ble/issues/6)) ([`a14eb5c`](https://github.com/Bluetooth-Devices/tilt-ble/commit/a14eb5c9c17538c66b10cdf833a375e80f9e7d01))

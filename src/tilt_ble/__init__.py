@@ -13,7 +13,7 @@ from sensor_state_data import (
 
 from .parser import TiltBluetoothDeviceData
 
-__version__ = "0.2.2"
+__version__ = "0.2.3"
 
 __all__ = [
     "DeviceClass",
