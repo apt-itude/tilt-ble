@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.2.4 (2023-02-07)
+### Fix
+* Update isort to fix CI ([#8](https://github.com/Bluetooth-Devices/tilt-ble/issues/8)) ([`2d42988`](https://github.com/Bluetooth-Devices/tilt-ble/commit/2d42988e8ffa6028a8e81434d36925b267c283bc))
+
 ## v0.2.3 (2022-09-07)
 ### Fix
 * Downgrade logger to debug ([#7](https://github.com/Bluetooth-Devices/tilt-ble/issues/7)) ([`2398574`](https://github.com/Bluetooth-Devices/tilt-ble/commit/239857470ddd04a2e2e6aa0ef8b035ecdaf948b2))
