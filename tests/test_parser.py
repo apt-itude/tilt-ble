@@ -83,7 +83,10 @@ def test_pro():
     service_info = BluetoothServiceInfo(
         name="aa-bb-cc-dd-ee-ff",
         manufacturer_data={
-            76: b"\x02\x15\xa4\x95\xbb\x30\xc5\xb1\x4b\x44\xb5\x12\x13\x70\xf0\x2d\x74\xde\x02\x0e\x29\x05\xc5"
+            76: (
+                b"\x02\x15\xa4\x95\xbb\x30\xc5\xb1\x4b\x44\xb5\x12\x13\x70\xf0\x2d\x74"
+                b"\xde\x02\x0e\x29\x05\xc5"
+            )
         },
         service_uuids=[],
         address="aa:bb:cc:dd:ee:ff",
